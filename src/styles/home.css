@@ -1,0 +1,50 @@
+.introduce{
+    margin: auto;
+    margin-top:-15px;
+    width: 80%;
+    height: 600px;
+    background-image: url("../images/hero-image.png") ;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    opacity:0.6;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+
+}
+.introduce p{
+    margin-top:-15px;
+    padding-top: 200px;
+}
+.footer{
+    width: 80%;
+    background-color: #CCCCCC;
+    margin: auto;
+
+}
+.counterIntro{
+    float: left;
+    margin-left: 200px;
+
+}
+.counterIntro img{
+    width: 250px;
+    height: 250px;
+
+}
+.counterIntro p a{
+    font-size: 30px;
+    color: black;
+}
+.timerIntro{
+    float: right;
+    margin-right: 250px;
+}
+.timerIntro img{
+    width: 250px;
+    height: 250px;
+}
+.timerIntro p a{
+    font-size: 30px;
+    color: black;
+}
